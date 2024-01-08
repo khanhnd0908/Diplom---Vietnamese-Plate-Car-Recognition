@@ -1,0 +1,16 @@
+.card {
+  background: white;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  /* border-radius: 10px; */
+  width: 100%;
+  height: 100%;
+  border: 1px solid black;
+  text-align: center;
+  text-justify: center;
+  color: white;
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+  position: inherit;
+  justify-content: center;
+}

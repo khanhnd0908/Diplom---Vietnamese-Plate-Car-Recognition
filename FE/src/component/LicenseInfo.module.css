@@ -1,0 +1,26 @@
+.info {
+    display: flex;
+    flex-direction: column;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    font-family: 'Telex';
+    font-style: normal;
+    width: 100%;
+    height: 100%;
+    letter-spacing: -0.02em;
+    padding-top: 10%;
+    box-sizing: border-box;
+}
+
+.info h3 {
+    font-weight: 100;
+    font-size: 1.5em;
+}
+
+.info p {
+    font-weight: 400;
+    font-size: 5em;
+    line-height: 41px;
+}
+
+

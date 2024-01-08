@@ -1,0 +1,39 @@
+.app {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  box-sizing: border-box;
+}
+
+.licenseImagePart{
+  display: flex;
+  flex: 4;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+.licenseInfoPart {
+  display: flex;
+  flex: 2;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+.license-upload {
+  flex: 5;
+  box-sizing: border-box;
+}
+.license-crop {
+ flex: 2; 
+ box-sizing: border-box;
+}
+.info-license {
+  flex: 2;
+  box-sizing: border-box;
+}
+.info-pack {
+  flex: 5;
+  box-sizing: border-box;
+}
